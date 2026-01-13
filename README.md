@@ -24,3 +24,6 @@ The dataset consists of labelled images representing different hand-washing step
 Outcome
 
 The final model was able to classify hand-washing steps with good accuracy, demonstrating how image data can be used effectively in a practical, real-world classification task.
+
+
+Dataset on: https://drive.google.com/drive/folders/1s-TlSU6iIXOct2zp4FOsLcIljb1i5bme?usp=sharing
